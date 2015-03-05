@@ -1,0 +1,5 @@
+{
+	"port"   :6000,
+	"mongoDB":{"host":"localhost", "name":"Article"},
+	"host"   :"localhost"
+}
